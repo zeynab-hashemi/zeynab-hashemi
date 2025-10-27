@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **zeynab-hashemi/zeynab-hashemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
